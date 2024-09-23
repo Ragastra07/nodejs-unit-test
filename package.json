@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Ragastra07/nodejs-unit-test#readme",
   "devDependencies": {
+    "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
   }
 }
