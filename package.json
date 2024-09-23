@@ -1,0 +1,29 @@
+{
+  "name": "node-unit-test",
+  "version": "1.0.0",
+  "description": "package pembelajaran NodeJS Unit Test",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragastra07/nodejs-unit-test.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "nodeJS",
+    "Jest"
+  ],
+  "author": "Ragastra HW.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragastra07/nodejs-unit-test/issues"
+  },
+  "homepage": "https://github.com/Ragastra07/nodejs-unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
