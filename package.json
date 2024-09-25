@@ -9,6 +9,7 @@
   },
   "jest": {
     "verbose" : true,
+    "collectCoverage" : true,
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
